@@ -50,7 +50,7 @@ This project is optimized for deployment on Vercel:
 
 ## Contact
 
-- Email: sujal@gmail.com
+- Email: sujalchoudhary0606@gmail.com
 - Location: Indore, India
 
 ---
